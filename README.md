@@ -1,2 +1,2 @@
 # Terminology-
-A JSON file library to save unique English terms tied to there translations 
+A JSON file library stores unique English terms mapped to there technichal translations 
